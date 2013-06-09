@@ -7,4 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-echo  "hello world";
+echo  "hello world7777";
+
+
+echo  "compared ";
